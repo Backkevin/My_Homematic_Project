@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-08-01T16:17:45Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "HB-power_v1.2"
+        },
+        "Owner": "Back Kevin <back_kevin@hotmail.com>",
+        "Size": {
+            "X": 71.1,
+            "Y": 100
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Partlist exported from C:/SEAFILE/PRIVAT/HOMEMATIC  PROJECTS/HB-UNI-Sen-TEMP-DS18B20/HB-UNI-Sen-TEMP-DS18B20.sch at 01.08.19 19:21
+
+Qty Value        Device       Package      Parts                                  Description                                       MF MPN         OC_FARNELL OC_NEWARK SIZE      VALUE  
+1                DS01         DS-01        S2                                     DIL/CODE SWITCH                                                  unknown    unknown                    
+2                GSH15        GSH15        F1, F2                                 FUSE HOLDER                                          64900001039 1271673    02P0318                    
+8                JP2W         JP2W         JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8 JUMPER                                                                                                 
+1                JP4E         JP4          JP9                                    JUMPER                                                                                                 
+2                LED5MM       LED5MM       LED1, LED2                             LED                                                                                                    
+1                W237-3E      W237-3E      X1                                     WAGO SREW CLAMP                                                  unknown    unknown                    
+1   1X8          1X8          1X8          U$5                                                                                                                                           
+2   330R         R-EU_0207/10 0207/10      R1, R2                                 RESISTOR, European symbol                                                                              
+1   4.7K         R-EU_0207/10 0207/10      R3                                     RESISTOR, European symbol                                                                              
+1   5VDC/5W      HLK-5M05     HLK-5M05     U$3                                    HLK-5M05 is an 5Volt/5W smps developed by HI-LINK                                     23x38(mm) 5VDC/5W
+1   ABK-PRO-MINI ABK-PRO-MINI ABK-PRO-MINI U$1                                    ABK Pro-Mini Arduino Clone                                                                             
