@@ -14475,12 +14475,57 @@ Based on the previous libraries:
 <text x="-4.572" y="4.445" size="1.27" layer="21" ratio="10">1</text>
 <text x="0.254" y="4.445" size="1.27" layer="21" ratio="10">2</text>
 </package>
+<package name="MSTBA3" urn="urn:adsk.eagle:footprint:9517/1" library_version="2">
+<description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
+<wire x1="-8.636" y1="7.112" x2="-8.636" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="7.112" x2="-5.715" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-5.715" y1="7.112" x2="-4.445" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="-4.445" y1="7.112" x2="-0.635" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="7.112" x2="0.635" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="5.715" y1="7.112" x2="8.636" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="-1.905" x2="8.636" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="8.636" y1="7.112" x2="8.636" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="-4.953" x2="-5.969" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="-1.905" x2="-8.636" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="8.636" y1="-1.905" x2="8.636" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-4.191" y1="-4.953" x2="-4.572" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-4.191" y1="-4.953" x2="-0.889" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-4.572" y1="-3.683" x2="-5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-5.969" y1="-4.953" x2="-5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-5.969" y1="-4.953" x2="-4.191" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="0.889" y1="-4.953" x2="0.508" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="0.889" y1="-4.953" x2="4.191" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="4.191" y1="-4.953" x2="5.969" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="5.969" y1="-4.953" x2="8.636" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-0.889" y1="-4.953" x2="-0.508" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-0.889" y1="-4.953" x2="0.889" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-0.508" y1="-3.683" x2="0.508" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="4.572" y1="-3.683" x2="5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="5.969" y1="-4.953" x2="5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="4.191" y1="-4.953" x2="4.572" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="4.445" y1="7.112" x2="5.715" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="0.635" y1="7.112" x2="4.445" y2="7.112" width="0.1524" layer="21"/>
+<pad name="1" x="-5.08" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="2" x="0" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="3" x="5.08" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<text x="-8.636" y="7.62" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-7.62" y="0" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-7.112" y="4.445" size="1.27" layer="21" ratio="10">1</text>
+<text x="-2.286" y="4.445" size="1.27" layer="21" ratio="10">2</text>
+<text x="2.794" y="4.445" size="1.27" layer="21" ratio="10">3</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="MSTBA2" urn="urn:adsk.eagle:package:9615/1" type="box" library_version="1">
 <description>PHOENIX</description>
 <packageinstances>
 <packageinstance name="MSTBA2"/>
+</packageinstances>
+</package3d>
+<package3d name="MSTBA3" urn="urn:adsk.eagle:package:9608/1" type="box" library_version="2">
+<description>PHOENIX</description>
+<packageinstances>
+<packageinstance name="MSTBA3"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -14510,7 +14555,7 @@ Based on the previous libraries:
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="MSTBA2" urn="urn:adsk.eagle:component:9687/1" prefix="X" library_version="1">
+<deviceset name="MSTBA2" urn="urn:adsk.eagle:component:9687/2" prefix="X" library_version="2">
 <description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
 <gates>
 <gate name="-1" symbol="SK" x="0" y="5.08" addlevel="always"/>
@@ -14531,6 +14576,36 @@ Based on the previous libraries:
 <attribute name="MPN" value="1757242" constant="no"/>
 <attribute name="OC_FARNELL" value="3705171" constant="no"/>
 <attribute name="OC_NEWARK" value="71C4161" constant="no"/>
+<attribute name="POPULARITY" value="11" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MSTBA3" urn="urn:adsk.eagle:component:9686/2" prefix="X" library_version="2">
+<description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
+<gates>
+<gate name="-1" symbol="SK" x="0" y="5.08" addlevel="always"/>
+<gate name="-2" symbol="SK" x="0" y="0" addlevel="always"/>
+<gate name="-3" symbol="SKV" x="0" y="-5.08" addlevel="always"/>
+</gates>
+<devices>
+<device name="" package="MSTBA3">
+<connects>
+<connect gate="-1" pin="1" pad="1"/>
+<connect gate="-2" pin="1" pad="2"/>
+<connect gate="-3" pin="1" pad="3"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:9608/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MF" value="FARNELL" constant="no"/>
+<attribute name="MPN" value="1757255" constant="no"/>
+<attribute name="OC_FARNELL" value="3705183" constant="no"/>
+<attribute name="OC_NEWARK" value="71C4162" constant="no"/>
+<attribute name="POPULARITY" value="3" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -15090,9 +15165,7 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <part name="X1" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA2" device="" package3d_urn="urn:adsk.eagle:package:9615/1"/>
 <part name="U$4" library="DFPlayer_v1" deviceset="DFPLAYER" device=""/>
 <part name="JP1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1"/>
-<part name="X2" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA2" device="" package3d_urn="urn:adsk.eagle:package:9615/1"/>
 <part name="Q1" library="transistor-pnp" library_urn="urn:adsk.eagle:library:399" deviceset="BC327" device="" package3d_urn="urn:adsk.eagle:package:29211/2"/>
-<part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0309/10" package3d_urn="urn:adsk.eagle:package:23567/1" value="1K"/>
 <part name="U$5" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
 <part name="D1" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="1N4004" device="" package3d_urn="urn:adsk.eagle:package:43336/1"/>
 <part name="R2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0309/10" package3d_urn="urn:adsk.eagle:package:23567/1" value="1K"/>
@@ -15101,6 +15174,7 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <part name="R4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0309/10" package3d_urn="urn:adsk.eagle:package:23567/1" value="1K"/>
 <part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
 <part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0309/10" package3d_urn="urn:adsk.eagle:package:23567/1" value="470"/>
+<part name="X3" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA3" device="" package3d_urn="urn:adsk.eagle:package:9608/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -15148,20 +15222,9 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <attribute name="NAME" x="2.54" y="3.81" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="2.54" y="13.335" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="X2" gate="-1" x="210.82" y="0" smashed="yes" rot="R90">
-<attribute name="NAME" x="209.931" y="-6.604" size="1.778" layer="95" rot="R270"/>
-</instance>
-<instance part="X2" gate="-2" x="215.9" y="0" smashed="yes" rot="R90">
-<attribute name="VALUE" x="219.71" y="-7.62" size="1.778" layer="96" rot="R90"/>
-<attribute name="NAME" x="215.011" y="-6.604" size="1.778" layer="95" rot="R270"/>
-</instance>
 <instance part="Q1" gate="G$1" x="299.72" y="73.66" smashed="yes">
 <attribute name="NAME" x="297.18" y="68.58" size="1.778" layer="95"/>
 <attribute name="VALUE" x="302.26" y="73.66" size="1.778" layer="96"/>
-</instance>
-<instance part="R1" gate="G$1" x="274.32" y="106.68" smashed="yes" rot="R270">
-<attribute name="NAME" x="275.8186" y="110.49" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="271.018" y="110.49" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="U$5" gate="G$1" x="314.96" y="48.26" smashed="yes">
 <attribute name="NAME" x="307.34" y="56.388" size="1.778" layer="95"/>
@@ -15187,13 +15250,23 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <attribute name="NAME" x="296.1386" y="110.49" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="291.338" y="110.49" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LED1" gate="G$1" x="292.1" y="10.16" smashed="yes" rot="R90">
-<attribute name="NAME" x="296.672" y="13.716" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="296.672" y="15.875" size="1.778" layer="96" rot="R180"/>
+<instance part="LED1" gate="G$1" x="269.24" y="71.12" smashed="yes">
+<attribute name="NAME" x="272.796" y="66.548" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="274.955" y="66.548" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R6" gate="G$1" x="276.86" y="10.16" smashed="yes" rot="R180">
-<attribute name="NAME" x="280.67" y="8.6614" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="280.67" y="13.462" size="1.778" layer="96" rot="R180"/>
+<instance part="R6" gate="G$1" x="271.78" y="96.52" smashed="yes" rot="R270">
+<attribute name="NAME" x="273.2786" y="100.33" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="268.478" y="100.33" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="X3" gate="-1" x="210.82" y="0" smashed="yes" rot="R90">
+<attribute name="NAME" x="209.931" y="-6.604" size="1.778" layer="95" rot="R270"/>
+</instance>
+<instance part="X3" gate="-2" x="215.9" y="0" smashed="yes" rot="R90">
+<attribute name="NAME" x="215.011" y="-6.604" size="1.778" layer="95" rot="R270"/>
+</instance>
+<instance part="X3" gate="-3" x="220.98" y="0" smashed="yes" rot="R90">
+<attribute name="VALUE" x="224.79" y="-7.62" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="220.091" y="-6.604" size="1.778" layer="95" rot="R270"/>
 </instance>
 </instances>
 <busses>
@@ -15241,9 +15314,9 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <junction x="137.16" y="99.06"/>
 <pinref part="U$4" gate="G$1" pin="GND_2"/>
 <wire x1="190.5" y1="99.06" x2="137.16" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="251.46" y1="99.06" x2="264.16" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="264.16" y1="99.06" x2="264.16" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="264.16" y1="73.66" x2="190.5" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="251.46" y1="99.06" x2="261.62" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="261.62" y1="99.06" x2="261.62" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="261.62" y1="73.66" x2="190.5" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="73.66" x2="190.5" y2="99.06" width="0.1524" layer="91"/>
 <junction x="190.5" y="99.06"/>
 <pinref part="U$5" gate="G$1" pin="COIL0"/>
@@ -15252,20 +15325,22 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <wire x1="302.26" y1="45.72" x2="302.26" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="302.26" y1="43.18" x2="294.64" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="294.64" y1="43.18" x2="274.32" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="274.32" y1="43.18" x2="264.16" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="264.16" y1="43.18" x2="264.16" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="43.18" x2="261.62" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="261.62" y1="43.18" x2="261.62" y2="73.66" width="0.1524" layer="91"/>
 <junction x="302.26" y="43.18"/>
-<junction x="264.16" y="73.66"/>
+<junction x="261.62" y="73.66"/>
 <pinref part="OK1" gate="A" pin="C"/>
 <wire x1="276.86" y1="68.58" x2="274.32" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="274.32" y1="68.58" x2="274.32" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="68.58" x2="274.32" y2="60.96" width="0.1524" layer="91"/>
 <junction x="274.32" y="43.18"/>
 <pinref part="OK1" gate="A" pin="EMIT"/>
+<wire x1="274.32" y1="60.96" x2="274.32" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="294.64" y1="68.58" x2="294.64" y2="43.18" width="0.1524" layer="91"/>
 <junction x="294.64" y="43.18"/>
 <pinref part="LED1" gate="G$1" pin="C"/>
-<wire x1="302.26" y1="43.18" x2="302.26" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="302.26" y1="10.16" x2="297.18" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="269.24" y1="66.04" x2="269.24" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="269.24" y1="60.96" x2="274.32" y2="60.96" width="0.1524" layer="91"/>
+<junction x="274.32" y="60.96"/>
 </segment>
 </net>
 <net name="N$17" class="0">
@@ -15452,26 +15527,22 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <pinref part="U$2" gate="G$1" pin="D5"/>
 <wire x1="76.2" y1="48.26" x2="73.66" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="48.26" x2="73.66" y2="-20.32" width="0.1524" layer="91"/>
-<wire x1="73.66" y1="-20.32" x2="266.7" y2="-20.32" width="0.1524" layer="91"/>
-<wire x1="266.7" y1="-20.32" x2="266.7" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="-20.32" x2="259.08" y2="-20.32" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="G$1" pin="BUSY"/>
-<wire x1="266.7" y1="10.16" x2="266.7" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="266.7" y1="114.3" x2="251.46" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="266.7" y1="114.3" x2="274.32" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="274.32" y1="114.3" x2="274.32" y2="111.76" width="0.1524" layer="91"/>
-<junction x="266.7" y="114.3"/>
-<pinref part="R6" gate="G$1" pin="2"/>
-<wire x1="271.78" y1="10.16" x2="266.7" y2="10.16" width="0.1524" layer="91"/>
-<junction x="266.7" y="10.16"/>
+<wire x1="259.08" y1="-20.32" x2="259.08" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="259.08" y1="114.3" x2="251.46" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="R6" gate="G$1" pin="1"/>
+<wire x1="259.08" y1="114.3" x2="271.78" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="271.78" y1="114.3" x2="271.78" y2="101.6" width="0.1524" layer="91"/>
+<junction x="259.08" y="114.3"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
 <pinref part="U$4" gate="G$1" pin="SPK_1"/>
 <wire x1="215.9" y1="101.6" x2="210.82" y2="101.6" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-1" pin="1"/>
 <wire x1="210.82" y1="101.6" x2="210.82" y2="5.08" width="0.1524" layer="91"/>
+<pinref part="X3" gate="-1" pin="1"/>
 </segment>
 </net>
 <net name="N$12" class="0">
@@ -15502,8 +15573,8 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <wire x1="322.58" y1="48.26" x2="330.2" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="330.2" y1="48.26" x2="330.2" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="330.2" y1="25.4" x2="215.9" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-2" pin="1"/>
 <wire x1="215.9" y1="25.4" x2="215.9" y2="5.08" width="0.1524" layer="91"/>
+<pinref part="X3" gate="-2" pin="1"/>
 </segment>
 </net>
 <net name="N$14" class="0">
@@ -15522,14 +15593,6 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <pinref part="R3" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$8" class="0">
-<segment>
-<pinref part="R1" gate="G$1" pin="2"/>
-<pinref part="OK1" gate="A" pin="A"/>
-<wire x1="274.32" y1="101.6" x2="274.32" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="274.32" y1="73.66" x2="276.86" y2="73.66" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$16" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
@@ -15540,11 +15603,26 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <junction x="294.64" y="73.66"/>
 </segment>
 </net>
+<net name="N$8" class="0">
+<segment>
+<pinref part="R6" gate="G$1" pin="2"/>
+<wire x1="271.78" y1="91.44" x2="271.78" y2="78.74" width="0.1524" layer="91"/>
+<pinref part="LED1" gate="G$1" pin="A"/>
+<wire x1="271.78" y1="78.74" x2="269.24" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="269.24" y1="78.74" x2="269.24" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="271.78" y1="78.74" x2="276.86" y2="78.74" width="0.1524" layer="91"/>
+<junction x="271.78" y="78.74"/>
+<pinref part="OK1" gate="A" pin="A"/>
+<wire x1="276.86" y1="78.74" x2="276.86" y2="73.66" width="0.1524" layer="91"/>
+</segment>
+</net>
 <net name="N$20" class="0">
 <segment>
-<pinref part="LED1" gate="G$1" pin="A"/>
-<pinref part="R6" gate="G$1" pin="1"/>
-<wire x1="289.56" y1="10.16" x2="281.94" y2="10.16" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="SWOPEN"/>
+<wire x1="322.58" y1="43.18" x2="322.58" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="322.58" y1="20.32" x2="220.98" y2="20.32" width="0.1524" layer="91"/>
+<pinref part="X3" gate="-3" pin="1"/>
+<wire x1="220.98" y1="20.32" x2="220.98" y2="5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
