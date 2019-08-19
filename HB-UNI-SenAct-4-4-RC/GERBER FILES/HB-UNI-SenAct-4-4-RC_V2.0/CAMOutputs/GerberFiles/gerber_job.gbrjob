@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-07-21T13:05:44Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "HB-UNI-SenAct-4-4-RC_V2.0"
+        },
+        "Owner": "Back Kevin <back_kevin@hotmail.com>",
+        "Size": {
+            "X": 101.58,
+            "Y": 100
+        }
+    }
+}
