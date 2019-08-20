@@ -116,10 +116,21 @@ class PHChannel : public Channel<Hal, List1, EmptyList, List4, PEERS_PER_CHANNEL
     void measure () {
       DPRINT("Measure...\n");
       
-
+    //O
       oxygene = 0;
-      PHvalue = 7;
+
+    //PH   
+      int measuringVal = 0;
+      for (int i=0; i<5; i++){
+        measuringVal = measuringVal + analogRead(PH_PIN);
+      }          
+      double vltValue = 5/1024.0 * (measuringVal/5);
+      float P0 = 7 + ((2.5 - vltValue) / 0.18);    
+      PHvalue = P0;
+
+    //T
       temp = 10.0;
+      
       DPRINT("T/O/PH = " + String(temp)+"/"+ String(oxygene) +"/"+ String(PHvalue) + "\n");
     }
     
