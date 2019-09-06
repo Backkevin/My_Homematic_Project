@@ -72,7 +72,7 @@ using namespace as;
 // define all device properties
 const struct DeviceInfo PROGMEM devinfo = {
   {0xf3, DEV_MODEL, 0x01},// Device ID
-  "JPSENACT01",           // Device Serial
+  "JPSENAC801",           // Device Serial
   {0xf3, DEV_MODEL},      // Device Model
   0x10,                   // Firmware Version
   as::DeviceType::Switch, // Device Type
