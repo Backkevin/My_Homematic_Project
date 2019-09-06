@@ -21,24 +21,24 @@
 #define LOWBAT_VOLTAGE     22    // Batterie-Leermeldung bei Unterschreiten der Spannung von U * 10
 
 #define PCF8574_ADDRESS 0x38
-#define RELAY_PIN_1 0
-#define RELAY_PIN_2 1
-#define RELAY_PIN_3 2
-#define RELAY_PIN_4 3
-#define RELAY_PIN_5 4
-#define RELAY_PIN_6 5
-#define RELAY_PIN_7 6
-#define RELAY_PIN_8 7
-#define RELAY_ON_STATE_INVERT true
+#define RELAY_PIN_1 7
+#define RELAY_PIN_2 6
+#define RELAY_PIN_3 5
+#define RELAY_PIN_4 4
+#define RELAY_PIN_5 3
+#define RELAY_PIN_6 2
+#define RELAY_PIN_7 1
+#define RELAY_PIN_8 0
+#define RELAY_ON_STATE_INVERT false
 
-#define REMOTE_PIN_1 7
-#define REMOTE_PIN_2 9
-#define REMOTE_PIN_3 5
-#define REMOTE_PIN_4 6
-#define REMOTE_PIN_5 14
-#define REMOTE_PIN_6 15
-#define REMOTE_PIN_7 16
-#define REMOTE_PIN_8 17
+#define REMOTE_PIN_1 5
+#define REMOTE_PIN_2 6
+#define REMOTE_PIN_3 7
+#define REMOTE_PIN_4 9
+#define REMOTE_PIN_5 17
+#define REMOTE_PIN_6 16
+#define REMOTE_PIN_7 15
+#define REMOTE_PIN_8 14
 
 #define LED_PIN            4
 #define CONFIG_BUTTON_PIN  8
