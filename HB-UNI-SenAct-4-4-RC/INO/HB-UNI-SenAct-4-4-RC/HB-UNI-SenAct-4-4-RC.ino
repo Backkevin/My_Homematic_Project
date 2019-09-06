@@ -23,9 +23,11 @@
 #define RELAY_PIN_3 15
 #define RELAY_PIN_4 14
 
+#define SABOTAGE_PIN 3
+
 #define REMOTE_PIN_1 5
 #define REMOTE_PIN_2 6
-#define REMOTE_PIN_3 7
+#define REMOTE_PIN_3 7 
 #define REMOTE_PIN_4 9
 
 #define LED_PIN            4
