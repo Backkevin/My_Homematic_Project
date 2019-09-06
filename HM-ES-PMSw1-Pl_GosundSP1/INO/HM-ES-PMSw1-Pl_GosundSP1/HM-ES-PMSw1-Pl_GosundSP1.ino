@@ -8,9 +8,8 @@
 // #define USE_OTA_BOOTLOADER
 // #define NDEBUG
 // #define USE_HW_SERIAL
-//#define HJLDEBUG // Print measurement values
-//#define USE_CC1101_ALT_FREQ_86835  //when using 'bad' cc1101 module
-
+// #define HJLDEBUG // Print measurement values
+// #define USE_CC1101_ALT_FREQ_86835  //when using 'bad' cc1101 module
 #define EI_NOTEXTERNAL
 #include <EnableInterrupt.h>
 #include <AskSinPP.h>
@@ -81,8 +80,8 @@ uint8_t averaging = 1;
 bool    resetAverageCounting = false;
 // define all device properties
 const struct DeviceInfo PROGMEM devinfo = {
-  {0x00, 0xac, 0x00},     // Device ID
-  "HMESPMSw10",           // Device Serial
+  {0x00, 0xac, 0x01},     // Device ID
+  "HMESPMSw11",           // Device Serial
   {0x00, 0xac},           // Device Model
   0x25,                   // Firmware Version
   as::DeviceType::Switch, // Device Type
