@@ -11,9 +11,9 @@
 // #define USE_HW_SERIAL
 // #define NDEBUG
 // #define NDISPLAY
-// #define USE_COLOR
+#define USE_COLOR
 
-#define BATTERY_MODE
+// #define BATTERY_MODE
 
 #ifdef BATTERY_MODE
 #define USE_WOR
@@ -78,7 +78,7 @@ U8G2_FONTS_GFX u8g2Fonts(display);
 #define TEXT_LENGTH        16
 #define DISPLAY_LINES      10
 
-#define DISPLAY_ROTATE     3 // 0 = 0° , 1 = 90°, 2 = 180°, 3 = 270°
+#define DISPLAY_ROTATE     0 // 0 = 0° , 1 = 90°, 2 = 180°, 3 = 270°
 
 #define PEERS_PER_CHANNEL   8
 #define NUM_CHANNELS        11
