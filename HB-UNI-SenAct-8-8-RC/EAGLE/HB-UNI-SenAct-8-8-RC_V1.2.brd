@@ -196,6 +196,7 @@
 <text x="120.015" y="37.465" size="1.778" layer="25">R7</text>
 <text x="139.065" y="37.465" size="1.778" layer="25">R8</text>
 <text x="2.54" y="48.26" size="1.778" layer="25" rot="R270">CONFIG</text>
+<text x="8.89" y="50.165" size="1.016" layer="25">+</text>
 </plain>
 <libraries>
 <library name="resistor" urn="urn:adsk.eagle:library:348">
