@@ -22,19 +22,25 @@
 + HB-UNI-SEN-PHO
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-PHO/IMAGE/Default.jpg)
+	+ V1.0
 + HB-UNI-Sen-RFID-RC
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-Sen-RFID-RC/IMAGE/Default.jpg)
+	+ V1.0
 + HB-UNI-Sen-TEMP-DS18B20
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-Sen-TEMP-DS18B20/IMAGE/Default.jpg)
+	+ V1.0
 + HB-UNI-Sen-WEIGHT
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-Sen-WEIGHT/IMAGE/Default.jpg)
+	+ V1.0
 + HM-ES-PMSw1-Pl_GosundSP1
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HM-ES-PMSw1-Pl_GosundSP1/IMAGE/Default.jpg)
+	+ V1.0
 + HM-SEC-MDIR
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HM-SEC-MDIR/IMAGE/Default.jpg)
+	+ V1.0
 
