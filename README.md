@@ -3,6 +3,7 @@
 
 + HB-Dis-EP-42BW
 	+ Work in progress !
+     +![](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-Dis-EP-42BW/IMAGE/Default.jpg)
 + HB-OU-MP3-LED
 	+ Work in progress !
 + HB-UNI-SenAct-4-4-RC
