@@ -21,19 +21,19 @@
 // Arduino pin for the config button
 #define CONFIG_BUTTON_PIN      8
 #define LED_PIN                4
-#define BATT_EN_PIN            5
-#define BATT_SENS_PIN          14  // A0
+#define BATT_EN_PIN            6
+#define BATT_SENS_PIN          A3  
 
 #define CC1101_GDO0_PIN        2
 #define CC1101_CS_PIN          10
 #define CC1101_MOSI_PIN        11
 #define CC1101_MISO_PIN        12
 #define CC1101_SCK_PIN         13
-const uint8_t SENSOR_PINS[]    {14, 15, 16, 27, 18, 19, 22}; //AOut Pins der Sensoren (hier A0, A1, A2 und A4, A5, A6, A7)
+const uint8_t SENSOR_PINS[]    {14, 15, 16, 18, 19, 20, 21}; //AOut Pins der Sensoren (hier A0, A1, A2 und A4, A5, A6, A7)
 //bei Verwendung von > 3 Sensoren sollten die Vcc der Sensoren auf 2 Enable Pins verteilt werden (max. Last pro AVR-Pin beachten!)
-const uint8_t SENSOR_EN_PINS[] {6};
+const uint8_t SENSOR_EN_PINS[] {5, 5, 5, 5, 7 , 7, 7};
 
-#define DS18B20_PIN            3
+// #define DS18B20_PIN            3
 
 
 #define DEVICE_CHANNEL_COUNT sizeof(SENSOR_PINS)
@@ -80,9 +80,9 @@ const struct DeviceInfo PROGMEM devinfo = {
 typedef AvrSPI<CC1101_CS_PIN, CC1101_MOSI_PIN, CC1101_MISO_PIN, CC1101_SCK_PIN> SPIType;
 typedef Radio<SPIType, CC1101_GDO0_PIN> RadioType;
 typedef StatusLed<LED_PIN> LedType;
-//typedef AskSin<LedType, BatterySensorUni<BATT_SENS_PIN, BATT_EN_PIN, 0>, RadioType> BaseHal;  //orignal platine
+typedef AskSin<LedType, BatterySensorUni<BATT_SENS_PIN, BATT_EN_PIN, 0>, RadioType> BaseHal;  //orignal platine
 //typedef AskSin<LedType, BatterySensorUni<17, 3, 0>, RadioType> BaseHal;  // my board
-typedef AskSin<LedType, BatterySensor, RadioType> BaseHal; //ohne spannungs sensor
+//typedef AskSin<LedType, BatterySensor, RadioType> BaseHal; //ohne spannungs sensor
 class Hal : public BaseHal {
   public:
     void init (const HMID& id) {
@@ -343,6 +343,9 @@ ConfigButton<UType> cfgBtn(sdev);
 
 void setup () {
   DINIT(57600, ASKSIN_PLUS_PLUS_IDENTIFIER);
+  if (sizeof(SENSOR_PINS) != sizeof(SENSOR_EN_PINS)) {
+    DPRINTLN(F("!!! ERROR: Anzahl SENSOR_PINS entspricht nicht der Anzahl SENSOR_EN_PINS"));
+  }
   sdev.init(hal);
   DDEVINFO(sdev);
   buttonISR(cfgBtn, CONFIG_BUTTON_PIN);
