@@ -7,15 +7,18 @@
 + HB-OU-MP3-LED
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-OU-MP3-LED/IMAGE/Default.jpg)
+	+ V1.0
 + HB-UNI-SenAct-4-4-RC
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-4-4-RC/IMAGE/Default.jpg)
+	+ V1.0
 + HB-UNI-SenAct-8-8-RC
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-8-8-RC/IMAGE/Default.jpg)
 + HB-UNI-SEN-CAP-MOIST
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-CAP-MOIST/IMAGE/Default.jpg)
+     + V1.0
 + HB-UNI-SEN-PHO
 	+ Work in progress !
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-PHO/IMAGE/Default.jpg)
