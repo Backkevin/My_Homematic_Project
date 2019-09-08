@@ -14,7 +14,7 @@
 	+ V1.0
 	+ Work in progress !
 + HB-UNI-SenAct-8-8-RC
-	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-8-8-RC/IMAGE/Default.jpg)
+	*![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-8-8-RC/IMAGE/Default.jpg)
 + HB-UNI-SEN-CAP-MOIST
 	+![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-CAP-MOIST/IMAGE/Default.jpg)
      + V1.0
