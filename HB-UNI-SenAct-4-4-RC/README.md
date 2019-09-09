@@ -4,6 +4,7 @@
 	+ V3.0
 		* Work 100%
 		* 230VAC Version
+		* Partlist OK
 	+ Work in progress !
 
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-4-4-RC/IMAGE/Default.jpg)
