@@ -2122,19 +2122,19 @@ design rules under a new name.</description>
 <attribute name="NAME" x="40.64" y="35.4965" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="44.323" y="35.4965" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="F1" library="fuse" library_urn="urn:adsk.eagle:library:233" package="SH22,5A" package3d_urn="urn:adsk.eagle:package:14070/1" value="" x="65.9765" y="86.4235" smashed="yes" rot="R90">
+<element name="F1" library="fuse" library_urn="urn:adsk.eagle:library:233" package="SH22,5A" package3d_urn="urn:adsk.eagle:package:14070/1" value="F2" x="65.9765" y="86.4235" smashed="yes" rot="R90">
 <attribute name="MF" value="" x="133.2865" y="111.8235" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="0031.7701.11" x="133.2865" y="111.8235" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="133.2865" y="111.8235" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_NEWARK" value="04F1224" x="133.2865" y="111.8235" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="73.5965" y="86.4489" size="1.778" layer="27" ratio="10" rot="R90"/>
+<attribute name="VALUE" x="73.5965" y="93.4339" size="1.778" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="F2" library="fuse" library_urn="urn:adsk.eagle:library:233" package="SH22,5A" package3d_urn="urn:adsk.eagle:package:14070/1" value="" x="14.0335" y="86.4235" smashed="yes" rot="R90">
+<element name="F2" library="fuse" library_urn="urn:adsk.eagle:library:233" package="SH22,5A" package3d_urn="urn:adsk.eagle:package:14070/1" value="F1" x="14.0335" y="86.4235" smashed="yes" rot="R90">
 <attribute name="MF" value="" x="81.3435" y="138.4935" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="0031.7701.11" x="81.3435" y="138.4935" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="81.3435" y="138.4935" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_NEWARK" value="04F1224" x="81.3435" y="138.4935" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="21.6535" y="86.4489" size="1.778" layer="27" ratio="10" rot="R90"/>
+<attribute name="VALUE" x="7.6835" y="91.8464" size="1.778" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="" x="54.991" y="68.326" smashed="yes" rot="R90">
 <attribute name="NAME" x="52.705" y="66.421" size="1.27" layer="25" ratio="10" rot="R90"/>
