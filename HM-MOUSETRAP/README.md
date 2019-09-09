@@ -5,6 +5,7 @@
 		* Work 25%
 		* Battery Version
 		* Partlist not OK
+		* STL Parts not OK
 	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HM-MOUSETRAP/IMAGE/Default.jpg)
 
