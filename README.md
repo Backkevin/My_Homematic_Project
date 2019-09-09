@@ -5,9 +5,11 @@
 
 + HB-Dis-EP-42BW
 	+ V1.0
-		* Work 75%
+		* Work 50%
 	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-Dis-EP-42BW/IMAGE/Default.jpg)
+
+-----------------------------------------------------------------
 
 + HB-OU-MP3-LED
 	+ V1.3
