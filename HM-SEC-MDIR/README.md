@@ -2,6 +2,9 @@
  
 + HM-SEC-MDIR
 	+ V0.0
+		* Work 0%
+		* 230VAC Version
+		* Partlist not OK
 	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HM-SEC-MDIR/IMAGE/Default.jpg)
 
