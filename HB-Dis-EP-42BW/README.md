@@ -7,12 +7,19 @@
 
 ### Partslist
                     
-  Part Name   |   Part Value  |  Part Link 
-------------- | ------------- | -------------
-Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell
-||
-||
-||
-||
+  Part Name   |   Part Info  |   Part Value   |   Part Link 
+------------- | ------------- | ------------- | -------------
+|Arduino Pro Mini 8Mhz 3.3V||[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
+
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
+|||[Links](http://localhost/)
 
