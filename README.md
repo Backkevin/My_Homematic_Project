@@ -150,7 +150,7 @@
 	+ V0.5
 		* Work 24%
 		* Partlist
-		* Bettery Version
+		* Battery Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/HM-MOUSETRAP)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/EAGLE)
