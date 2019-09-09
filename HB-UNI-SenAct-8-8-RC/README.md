@@ -11,7 +11,7 @@
 ------------- | ------------- | ------------- | -------------
 -|Arduino Pro Mini 8Mhz 3.3V|1|[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
 -|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
-Config,S1,S2,S3,S4|Taster 6x6|5|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
+Config,S1 - S8|Taster 6x6|9|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 LED1 - LED9|LED 3mm|9|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
 HLK-5M05|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 F1,F2|Sicherungshalter|2|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
