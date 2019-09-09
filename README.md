@@ -13,7 +13,9 @@
 
 + HB-UNI-SenAct-4-4-RC
 	+ V3.0
-	+ Work 100% !
+		* Work 100%
+		* 230VAC Version
+	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-4-4-RC/IMAGE/Default.jpg)
 
 + HB-UNI-SenAct-8-8-RC
