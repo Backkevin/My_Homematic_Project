@@ -9,16 +9,17 @@
                     
   Part Name   |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | -------------
-0|Arduino Pro Mini 8Mhz 3.3V|0|[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
-0|CC1101 Funkmodul|0|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
-0|Taster 6x6|0|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
-0|LED 3mm|0|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
-0|HLK-PM01|0|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
-0|Sicherungshalter|0|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
-0|470 Ohm Widerstand|0|[Links]()
-0|Wannenstecker für AKL 249, 2-pol, RM5,08|0|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
-0|Wannenstecker für AKL 249, 3-pol, RM5,08|0|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-3-pol-rm5-08-akl-230-03-p36702.html?)
-0|relais srd-05vdc|0|[Links](https://de.aliexpress.com/item/32695798177.html?spm=a2g0o.productlist.0.0.46db7659cuB4fB&algo_pvid=f16bd12e)
-0|Pin Header Streifen 12 Pin|0|[Links](https://de.aliexpress.com/item/32904918519.html?spm=a2g0s.9042311.0.0.27424c4dCsKCBi)
+0|Arduino Pro Mini 8Mhz 3.3V|1|[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
+0|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
+0|Taster 6x6|5|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
+0|LED 3mm|5|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
+0|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
+0|Sicherungshalter|2|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
+0|470 Ohm Widerstand|5|[Links]()
+0|Wannenstecker für AKL 249, 2-pol, RM5,08|5|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
+0|Wannenstecker für AKL 249, 3-pol, RM5,08|4|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-3-pol-rm5-08-akl-230-03-p36702.html?)
+0|relais srd-05vdc|4|[Links](https://de.aliexpress.com/item/32695798177.html?spm=a2g0o.productlist.0.0.46db7659cuB4fB&algo_pvid=f16bd12e)
+0|Pin Header Streifen 12 Pin|2|[Links](https://de.aliexpress.com/item/32904918519.html?spm=a2g0s.9042311.0.0.27424c4dCsKCBi)
+0|ULN2803A|1|[Links](https://de.aliexpress.com/item/32881616806.html?spm=a2g0o.productlist.0.0.27805012dPDPf4&algo_pvid=2ce275e5-5ca6-4441-a1e3-fb3df6923537&algo_expid=2ce275e5-5ca6-4441-a1e3-fb3df6923537-0&btsid=14cad76a-3ab1-4af8-af47-443eb0bf5dae&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 0|0|0|0
 OPTIONAL|FT232RL USB zu TTL Serielle Adapter|1|[Links](https://de.aliexpress.com/item/32846166237.html?spm=a2g0s.9042311.0.0.27424c4dQGznlY)
