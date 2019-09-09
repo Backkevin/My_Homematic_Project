@@ -2,6 +2,9 @@
 
 + HB-UNI-SenAct-8-8-RC
 	+ V1.2
+		* Work 85%
+		* 230VAC Version
+		* Partlist OK
 	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-8-8-RC/IMAGE/Default.jpg)
 
