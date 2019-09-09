@@ -151,11 +151,10 @@
 		* Work 25%
 		* Battery Version
 		* Partlist not OK
-		* STL Parts not OK
+		* [STL Parts not OK](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/STL%20FILES)
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/HM-MOUSETRAP)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/EAGLE)
-		* [STL FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP/STL%20FILES)
 	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HM-MOUSETRAP/IMAGE/Default.jpg)
 
