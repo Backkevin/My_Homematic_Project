@@ -14908,10 +14908,10 @@ Based on the previous libraries:
 <part name="LED5" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
 <part name="X1" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA2" device="" package3d_urn="urn:adsk.eagle:package:9615/1"/>
 <part name="SABOTAGE" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP1E" device="" package3d_urn="urn:adsk.eagle:package:15455/1"/>
-<part name="U$4" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
-<part name="U$5" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
-<part name="U$6" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
-<part name="U$7" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
+<part name="RL1" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH" value="RELAYPTH"/>
+<part name="RL2" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH" value="RL2"/>
+<part name="RL3" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
+<part name="RL4" library="SRD-05VDC-SL-C" deviceset="RELAY" device="PTH"/>
 <part name="X2" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA3" device="" package3d_urn="urn:adsk.eagle:package:9608/1"/>
 <part name="X3" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA3" device="" package3d_urn="urn:adsk.eagle:package:9608/1"/>
 <part name="X4" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA3" device="" package3d_urn="urn:adsk.eagle:package:9608/1"/>
@@ -15014,21 +15014,17 @@ Based on the previous libraries:
 <attribute name="NAME" x="10.16" y="69.85" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="18.415" y="71.12" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="U$4" gate="G$1" x="279.4" y="68.58" smashed="yes">
+<instance part="RL1" gate="G$1" x="279.4" y="68.58" smashed="yes">
 <attribute name="NAME" x="271.78" y="76.708" size="1.778" layer="95"/>
-<attribute name="VALUE" x="271.78" y="58.42" size="1.778" layer="96"/>
 </instance>
-<instance part="U$5" gate="G$1" x="279.4" y="48.26" smashed="yes">
+<instance part="RL2" gate="G$1" x="279.4" y="48.26" smashed="yes">
 <attribute name="NAME" x="271.78" y="56.388" size="1.778" layer="95"/>
-<attribute name="VALUE" x="271.78" y="38.1" size="1.778" layer="96"/>
 </instance>
-<instance part="U$6" gate="G$1" x="279.4" y="27.94" smashed="yes">
+<instance part="RL3" gate="G$1" x="279.4" y="27.94" smashed="yes">
 <attribute name="NAME" x="271.78" y="36.068" size="1.778" layer="95"/>
-<attribute name="VALUE" x="271.78" y="17.78" size="1.778" layer="96"/>
 </instance>
-<instance part="U$7" gate="G$1" x="279.4" y="7.62" smashed="yes">
+<instance part="RL4" gate="G$1" x="279.4" y="7.62" smashed="yes">
 <attribute name="NAME" x="271.78" y="15.748" size="1.778" layer="95"/>
-<attribute name="VALUE" x="271.78" y="-2.54" size="1.778" layer="96"/>
 </instance>
 <instance part="X2" gate="-1" x="309.88" y="73.66" smashed="yes" rot="R180">
 <attribute name="NAME" x="316.484" y="72.771" size="1.778" layer="95"/>
@@ -15295,17 +15291,17 @@ Based on the previous libraries:
 <wire x1="68.58" y1="121.92" x2="121.92" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="121.92" x2="121.92" y2="63.5" width="0.1524" layer="91"/>
 <junction x="121.92" y="63.5"/>
-<pinref part="U$7" gate="G$1" pin="COIL0"/>
+<pinref part="RL4" gate="G$1" pin="COIL0"/>
 <wire x1="269.24" y1="2.54" x2="248.92" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="248.92" y1="2.54" x2="248.92" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="248.92" y1="22.86" x2="248.92" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="248.92" y1="43.18" x2="248.92" y2="63.5" width="0.1524" layer="91"/>
-<pinref part="U$6" gate="G$1" pin="COIL0"/>
+<pinref part="RL3" gate="G$1" pin="COIL0"/>
 <wire x1="269.24" y1="22.86" x2="248.92" y2="22.86" width="0.1524" layer="91"/>
 <junction x="248.92" y="22.86"/>
-<pinref part="U$4" gate="G$1" pin="COIL0"/>
+<pinref part="RL1" gate="G$1" pin="COIL0"/>
 <wire x1="269.24" y1="63.5" x2="248.92" y2="63.5" width="0.1524" layer="91"/>
-<pinref part="U$5" gate="G$1" pin="COIL0"/>
+<pinref part="RL2" gate="G$1" pin="COIL0"/>
 <wire x1="269.24" y1="43.18" x2="248.92" y2="43.18" width="0.1524" layer="91"/>
 <junction x="248.92" y="43.18"/>
 <wire x1="213.36" y1="43.18" x2="248.92" y2="43.18" width="0.1524" layer="91"/>
@@ -15442,27 +15438,27 @@ Based on the previous libraries:
 <net name="N$22" class="0">
 <segment>
 <pinref part="X5" gate="-2" pin="1"/>
-<pinref part="U$7" gate="G$1" pin="SWCOMMON"/>
+<pinref part="RL4" gate="G$1" pin="SWCOMMON"/>
 <wire x1="304.8" y1="7.62" x2="287.02" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$26" class="0">
 <segment>
 <pinref part="X4" gate="-2" pin="1"/>
-<pinref part="U$6" gate="G$1" pin="SWCOMMON"/>
+<pinref part="RL3" gate="G$1" pin="SWCOMMON"/>
 <wire x1="304.8" y1="27.94" x2="287.02" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$29" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="SWCOMMON"/>
+<pinref part="RL2" gate="G$1" pin="SWCOMMON"/>
 <pinref part="X3" gate="-2" pin="1"/>
 <wire x1="287.02" y1="48.26" x2="304.8" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$32" class="0">
 <segment>
-<pinref part="U$4" gate="G$1" pin="SWCOMMON"/>
+<pinref part="RL1" gate="G$1" pin="SWCOMMON"/>
 <pinref part="X2" gate="-2" pin="1"/>
 <wire x1="287.02" y1="68.58" x2="304.8" y2="68.58" width="0.1524" layer="91"/>
 </segment>
@@ -15473,7 +15469,7 @@ Based on the previous libraries:
 <wire x1="213.36" y1="63.5" x2="218.44" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="218.44" y1="63.5" x2="241.3" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="63.5" x2="241.3" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="U$4" gate="G$1" pin="COIL1"/>
+<pinref part="RL1" gate="G$1" pin="COIL1"/>
 <wire x1="241.3" y1="73.66" x2="269.24" y2="73.66" width="0.1524" layer="91"/>
 <pinref part="LED1" gate="G$1" pin="C"/>
 <wire x1="218.44" y1="71.12" x2="218.44" y2="63.5" width="0.1524" layer="91"/>
@@ -15482,7 +15478,7 @@ Based on the previous libraries:
 </net>
 <net name="N$35" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="COIL1"/>
+<pinref part="RL2" gate="G$1" pin="COIL1"/>
 <wire x1="269.24" y1="53.34" x2="241.3" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="53.34" x2="241.3" y2="60.96" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="O2"/>
@@ -15496,7 +15492,7 @@ Based on the previous libraries:
 <net name="N$36" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="O3"/>
-<pinref part="U$6" gate="G$1" pin="COIL1"/>
+<pinref part="RL3" gate="G$1" pin="COIL1"/>
 <wire x1="213.36" y1="58.42" x2="228.6" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="228.6" y1="58.42" x2="238.76" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="238.76" y1="58.42" x2="238.76" y2="33.02" width="0.1524" layer="91"/>
@@ -15509,7 +15505,7 @@ Based on the previous libraries:
 <net name="N$37" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="O4"/>
-<pinref part="U$7" gate="G$1" pin="COIL1"/>
+<pinref part="RL4" gate="G$1" pin="COIL1"/>
 <wire x1="213.36" y1="55.88" x2="233.68" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="233.68" y1="55.88" x2="236.22" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="236.22" y1="55.88" x2="236.22" y2="12.7" width="0.1524" layer="91"/>
@@ -15521,14 +15517,14 @@ Based on the previous libraries:
 </net>
 <net name="N$21" class="0">
 <segment>
-<pinref part="U$6" gate="G$1" pin="SWCLOSE"/>
+<pinref part="RL3" gate="G$1" pin="SWCLOSE"/>
 <pinref part="X4" gate="-1" pin="1"/>
 <wire x1="287.02" y1="33.02" x2="304.8" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$23" class="0">
 <segment>
-<pinref part="U$6" gate="G$1" pin="SWOPEN"/>
+<pinref part="RL3" gate="G$1" pin="SWOPEN"/>
 <pinref part="X4" gate="-3" pin="1"/>
 <wire x1="287.02" y1="22.86" x2="304.8" y2="22.86" width="0.1524" layer="91"/>
 </segment>
@@ -15536,20 +15532,20 @@ Based on the previous libraries:
 <net name="N$25" class="0">
 <segment>
 <pinref part="X5" gate="-1" pin="1"/>
-<pinref part="U$7" gate="G$1" pin="SWCLOSE"/>
+<pinref part="RL4" gate="G$1" pin="SWCLOSE"/>
 <wire x1="304.8" y1="12.7" x2="287.02" y2="12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$27" class="0">
 <segment>
-<pinref part="U$7" gate="G$1" pin="SWOPEN"/>
+<pinref part="RL4" gate="G$1" pin="SWOPEN"/>
 <pinref part="X5" gate="-3" pin="1"/>
 <wire x1="287.02" y1="2.54" x2="304.8" y2="2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$28" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="SWOPEN"/>
+<pinref part="RL2" gate="G$1" pin="SWOPEN"/>
 <pinref part="X3" gate="-3" pin="1"/>
 <wire x1="287.02" y1="43.18" x2="304.8" y2="43.18" width="0.1524" layer="91"/>
 </segment>
@@ -15557,13 +15553,13 @@ Based on the previous libraries:
 <net name="N$30" class="0">
 <segment>
 <pinref part="X3" gate="-1" pin="1"/>
-<pinref part="U$5" gate="G$1" pin="SWCLOSE"/>
+<pinref part="RL2" gate="G$1" pin="SWCLOSE"/>
 <wire x1="304.8" y1="53.34" x2="287.02" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$31" class="0">
 <segment>
-<pinref part="U$4" gate="G$1" pin="SWOPEN"/>
+<pinref part="RL1" gate="G$1" pin="SWOPEN"/>
 <pinref part="X2" gate="-3" pin="1"/>
 <wire x1="287.02" y1="63.5" x2="304.8" y2="63.5" width="0.1524" layer="91"/>
 </segment>
@@ -15571,7 +15567,7 @@ Based on the previous libraries:
 <net name="N$33" class="0">
 <segment>
 <pinref part="X2" gate="-1" pin="1"/>
-<pinref part="U$4" gate="G$1" pin="SWCLOSE"/>
+<pinref part="RL1" gate="G$1" pin="SWCLOSE"/>
 <wire x1="304.8" y1="73.66" x2="287.02" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 </net>
