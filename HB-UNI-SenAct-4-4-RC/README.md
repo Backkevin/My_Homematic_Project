@@ -5,13 +5,11 @@
 		* Work 100%
 		* 230VAC Version
 		* Partlist OK
-	+ <span style=“color:green;”>Work in progress !</span>
+	+ Work in progress !
 
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-4-4-RC/IMAGE/Default.jpg)
 
 ### Partslist 230VAC Version
-
-<span style=“color:green;”> text goes here</span>
                     
   Part Name   |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | -------------
