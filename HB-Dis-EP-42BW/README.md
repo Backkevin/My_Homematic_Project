@@ -7,7 +7,7 @@
 
 ### Partslist
                     
-  Part Name   |   Part Info  |   Part Value   |   Part Link 
+  Part Name   |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | -------------
 0|Arduino Pro Mini 8Mhz 3.3V|0|[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
 0|CC1101 Funkmodul|0|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
@@ -18,7 +18,7 @@
 0|470 Ohm Widerstand|0|[Links]()
 0|Wannenstecker für AKL 249, 2-pol, RM5,08|0|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
 0|Wannenstecker für AKL 249, 3-pol, RM5,08|0|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-3-pol-rm5-08-akl-230-03-p36702.html?)
-0|0|0|[Links]()
-0|0|0|[Links]()
-0|0|0|[Links]()
-0|0|0|[Links]()
+0|relais srd-05vdc|0|[Links](https://de.aliexpress.com/item/32695798177.html?spm=a2g0o.productlist.0.0.46db7659cuB4fB&algo_pvid=f16bd12e)
+0|Pin Header Streifen 12 Pin|0|[Links](https://de.aliexpress.com/item/32904918519.html?spm=a2g0s.9042311.0.0.27424c4dCsKCBi)
+0|0|0|0
+OPTIONAL|FT232RL USB zu TTL Serielle Adapter|1|[Links](https://de.aliexpress.com/item/32846166237.html?spm=a2g0s.9042311.0.0.27424c4dQGznlY)
