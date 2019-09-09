@@ -6,7 +6,7 @@
 		* Battery Version
 		* Partlist not OK
 	+ Work in progress !
->![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-MOUSETRAP/IMAGE/Default.jpg)
+>![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HM-MOUSETRAP/IMAGE/Default.jpg)
 
 ### Partslist Battery Version
                     
