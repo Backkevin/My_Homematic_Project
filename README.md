@@ -8,6 +8,7 @@
 	+ V1.0
 		* Work 50%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-Dis-EP-42BW/INO/HB-Dis-EP-42BW)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-Dis-EP-42BW/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-Dis-EP-42BW/EAGLE)
@@ -20,6 +21,7 @@
 	+ V1.3
 		* Work 50%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED/INO/HB-OU-MP3-LED)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED/EAGLE)
@@ -57,6 +59,7 @@
      + V1.2
 		* Work 75%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/INO/HB-UNI-SEN-CAP-MOIST)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/EAGLE)
@@ -69,6 +72,7 @@
 	+ V1.0
 		* Work 25%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-PHO/INO/HB-UNI-SEN-PHO)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-PHO/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-PHO/EAGLE)
@@ -81,6 +85,7 @@
 	+ V1.0
 		* Work 25%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-RFID-RC/INO/HB-UNI-Sen-RFID-RC)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-RFID-RC/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-RFID-RC/EAGLE)
@@ -93,6 +98,7 @@
 	+ V1.0
 		* Work 75%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-TEMP-DS18B20/INO/HB-UNI-Sen-TEMP-DS18B20)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-TEMP-DS18B20/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-TEMP-DS18B20/EAGLE)
@@ -105,6 +111,7 @@
 	+ V1.0
 		* Work 50%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-WEIGHT/INO/HB-UNI-Sen-WEIGHT)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-WEIGHT/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-WEIGHT/EAGLE)
@@ -117,6 +124,7 @@
 	+ V1.3
 		* Work 50%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-ES-PMSw1-Pl_GosundSP1/INO/HM-ES-PMSw1-Pl_GosundSP1)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-ES-PMSw1-Pl_GosundSP1/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-ES-PMSw1-Pl_GosundSP1/EAGLE)
@@ -129,6 +137,7 @@
 	+ V0.0
 		* Work 0%
 		* Partlist
+		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-SEC-MDIRINO/HM-SEC-MDIR)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-SEC-MDIR/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-SEC-MDIR/EAGLE)
