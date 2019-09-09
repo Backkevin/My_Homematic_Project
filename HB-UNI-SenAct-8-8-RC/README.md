@@ -21,6 +21,7 @@ RL1 - RL8|Wannenstecker für AKL 249, 3-pol, RM5,08|8|[Links](https://www.reichel
 RL1 - RL8|relais srd-05vdc|8|[Links](https://de.aliexpress.com/item/32695798177.html?spm=a2g0o.productlist.0.0.46db7659cuB4fB&algo_pvid=f16bd12e)
 Arduino|Pin Header Streifen 12 Pin|3|[Links](https://de.aliexpress.com/item/32904918519.html?spm=a2g0s.9042311.0.0.27424c4dCsKCBi)
 CC1101|Stiftleiste 20 polig, vergoldet, Raster 2,00mm|1|[Links](https://secure.reichelt.com/lu/de/stiftleiste-20-pol-vergoldet-bkl-10120400-p235635.html?)
+74AC540N|74AC540N|1|[Links](https://de.aliexpress.com/item/32962771569.html?spm=a2g0s.9042311.0.0.27424c4d9oXxJ5)
 PCF8574|PCF8574|1|[Links](https://de.aliexpress.com/item/32933373566.html?spm=a2g0o.productlist.0.0.64a84f64Lvqpim&algo_pvid=cbe97703-3691-461b-ab85-9e0ba62d57db&algo_expid=cbe97703-3691-461b-ab85-9e0ba62d57db-1&btsid=dcfb9457-b3f3-4e03-af0e-92040a947379&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 ULN2803|ULN2803A|1|[Links](https://de.aliexpress.com/item/32881616806.html?spm=a2g0o.productlist.0.0.27805012dPDPf4&algo_pvid=2ce275e5-5ca6-4441-a1e3-fb3df6923537&algo_expid=2ce275e5-5ca6-4441-a1e3-fb3df6923537-0&btsid=14cad76a-3ab1-4af8-af47-443eb0bf5dae&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 C1|50V10UF|1|[Links](https://de.aliexpress.com/item/32741687066.html?spm=a2g0o.productlist.0.0.4d225216N68Cr1&algo_pvid=dbcb75f4-e623-4355-8aa4-ccd3a7b65d32&algo_expid=dbcb75f4-e623-4355-8aa4-ccd3a7b65d32-3&btsid=a9b8176e-1372-45d7-a781-8d3fc9fab8e5&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
