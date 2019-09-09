@@ -16,7 +16,7 @@ LED1 - LED9|LED 3mm|9|[Links](https://de.aliexpress.com/item/32844298998.html?sp
 HLK-5M05|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 F1,F2|Sicherungshalter|2|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 R1 - R9|470 Ohm Widerstand|9|[Links]()
-230V,S1 - S8|Wannenstecker für AKL 249, 2-pol, RM5,08|9|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
+230V|Wannenstecker für AKL 249, 2-pol, RM5,08|1|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
 RL1 - RL8|Wannenstecker für AKL 249, 3-pol, RM5,08|8|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-3-pol-rm5-08-akl-230-03-p36702.html?)
 RL1 - RL8|relais srd-05vdc|8|[Links](https://de.aliexpress.com/item/32695798177.html?spm=a2g0o.productlist.0.0.46db7659cuB4fB&algo_pvid=f16bd12e)
 Arduino|Pin Header Streifen 12 Pin|3|[Links](https://de.aliexpress.com/item/32904918519.html?spm=a2g0s.9042311.0.0.27424c4dCsKCBi)
