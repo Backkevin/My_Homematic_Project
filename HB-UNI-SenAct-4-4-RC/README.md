@@ -5,8 +5,7 @@
 		* Work 100%
 		* 230VAC Version
 		* Partlist OK
-	+ <p style='color:red'>Work in progress !</p>
-
+	+ <font color="red">Work in progress !</font
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SenAct-4-4-RC/IMAGE/Default.jpg)
 
 ### Partslist 230VAC Version
