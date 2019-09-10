@@ -5,7 +5,7 @@
 		* 230VAC Version
 		* Partlist not OK
 	+ Work in progress !
->![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-Dis-EP-42BW/IMAGE/Default.jpg)
+<img src="https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-Dis-EP-42BW/IMAGE/Default.jpg">
 
 ### Partslist 230VAC Version
                     
@@ -18,7 +18,7 @@ LED1,LED2|<img src="https://ae01.alicdn.com/kf/HTB12T2qbAfb_uJkSne1q6zE4XXaM/600
 HLK-5M05|<img src="https://ae01.alicdn.com/kf/HTB1ygDZIWmWBuNjy1Xaq6xCbXXay/HLK-PM01-HLK-PM03-HLK-PM12-AC-DC-220-V-zu-5-V-3-3-V.jpg_50x50.jpg">|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 F1,F2|<img src="https://ae01.alicdn.com/kf/HTB1Q2UdRVXXXXX8aFXXq6xXFXXXU/10-st-cke-5-20mm-glassicherungshalter-transparent-halter-mit-klarsichtdeckel-sicherungsblocks-5X20mm-versicherung-header.jpg_50x50.jpg">|Sicherungshalter|2|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 R1,R2|<img src="">|470 Ohm Widerstand|2|[Links]()
-230V|<img src="https://cdn-reichelt.de/resize_70x70/web/artikel_ws/C151/AKL_230_02.jpg">|Wannenstecker für AKL 249, 2-pol, RM5,08|1|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
+230V|<img src="https://cdn-reichelt.de/resize_70x70/web/artikel_ws/C151/AKL_230_02.jpg">|Wannenstecker fï¿½r AKL 249, 2-pol, RM5,08|1|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
 Arduino|<img src="https://ae01.alicdn.com/kf/HTB1hlIXzyCYBuNkHFCcq6AHtVXaK/10-st-cke-Weibliche-Pin-Header-Streifen-12-Pin-Pitch-2-54mm-Einreihige-Weiblichen-Pin-Header.jpg_50x50.jpg">|Pin Header Streifen 12 Pin|2|[Links](https://de.aliexpress.com/item/32904918519.html?spm=a2g0s.9042311.0.0.27424c4dCsKCBi)
 CC1101|<img src="https://cdn-reichelt.de/resize_70x70/web/artikel_ws/C110/10120400.jpg">|Stiftleiste 20 polig, vergoldet, Raster 2,00mm|1|[Links](https://secure.reichelt.com/lu/de/stiftleiste-20-pol-vergoldet-bkl-10120400-p235635.html?)
 C1|<img src="https://ae01.alicdn.com/kf/HTB12EazDv5TBuNjSspcq6znGFXaF/50PCS-Higt-qualit-t-50V10UF-5-7mm-10UF-50V-5-7-elektrolytkondensator.jpg_50x50.jpg">|50V10UF|1|[Links](https://de.aliexpress.com/item/32741687066.html?spm=a2g0o.productlist.0.0.4d225216N68Cr1&algo_pvid=dbcb75f4-e623-4355-8aa4-ccd3a7b65d32&algo_expid=dbcb75f4-e623-4355-8aa4-ccd3a7b65d32-3&btsid=a9b8176e-1372-45d7-a781-8d3fc9fab8e5&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
