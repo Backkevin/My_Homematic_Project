@@ -9,7 +9,7 @@
 
 ### Partslist 230VAC Version
                     
-  Part Name   |   Part IMG    |   Part Info   | Part Quantity |   Part Link 
+  Part Name   |      PIC      |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | ------------- | -------------
 -||Atmega1284|1|[Links]()
 -||CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
