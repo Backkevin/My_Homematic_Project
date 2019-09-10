@@ -11,7 +11,7 @@
                     
   Part Name   |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | -------------
--|Arduino Pro Mini 8Mhz 3.3V|1|[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
+-|Atmega1284|1|[Links]()
 -|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
 Config,S1 - S8|Taster 6x6|9|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 LED1,LED2|LED 3mm|2|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
