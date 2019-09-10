@@ -9,13 +9,13 @@
 
 ### Partslist 230VAC Version
                     
-  Part Name   |   Part Info   |   Part Info   | Part Quantity |   Part Link 
+  Part Name   |   Part IMG    |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | ------------- | -------------
 -|Atmega1284|1|[Links]()
 -|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
 Config,S1 - S8|Taster 6x6|9|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 LED1,LED2|LED 3mm|2|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
-HLK-5M05|(https://ae01.alicdn.com/kf/HTB1ygDZIWmWBuNjy1Xaq6xCbXXay/HLK-PM01-HLK-PM03-HLK-PM12-AC-DC-220-V-zu-5-V-3-3-V.jpg_50x50.jpg)|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
+HLK-5M05|[](https://ae01.alicdn.com/kf/HTB1ygDZIWmWBuNjy1Xaq6xCbXXay/HLK-PM01-HLK-PM03-HLK-PM12-AC-DC-220-V-zu-5-V-3-3-V.jpg_50x50.jpg)|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 F1,F2|Sicherungshalter|2|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 R1,R2|470 Ohm Widerstand|2|[Links]()
 230V|Wannenstecker für AKL 249, 2-pol, RM5,08|1|[Links](https://www.reichelt.de/wannenstecker-fuer-akl-249-2-pol-rm5-08-akl-230-02-p36701.html?)
