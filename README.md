@@ -63,6 +63,10 @@
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/INO/HB-UNI-SEN-CAP-MOIST)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/EAGLE)
+	+ V0.5
+		* Work 25%
+		* Solar Version
+		* Partlist not OK
 	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-CAP-MOIST/IMAGE/Default.jpg)
 
