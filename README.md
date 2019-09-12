@@ -48,7 +48,7 @@
 
 + [HB-UNI-SenAct-8-8-RC](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SenAct-8-8-RC)
 + [Nachbau von Ronny](https://github.com/ronnythomas/HB-UNI-SenAct-8-8-Hutschiene)
-	+ V1.2
+	+ V2.1
 		* Work 85%
 		* Partlist OK
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SenAct-8-8-RC/INO/HB-UNI-SenAct-8-8-RC)
