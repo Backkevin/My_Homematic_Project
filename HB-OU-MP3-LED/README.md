@@ -32,3 +32,4 @@ DFP|<img src="">|DFPlayer|1|[Links](https://de.aliexpress.com/item/32750446150.h
 R2,R3|<img src="">|1K Ohm Widerstand|2|[Links]()
 -|-|-|-
 OPTIONAL|<img src="">|FT232RL USB zu TTL Serielle Adapter|1|[Links](https://de.aliexpress.com/item/32846166237.html?spm=a2g0s.9042311.0.0.27424c4dQGznlY)
+OPTIONAL|<img src="https://ae01.alicdn.com/kf/HTB1nclzfXkoBKNjSZFEq6zrEVXaf/30-40-MM-28X40-MM-4R-3-W-lautsprecher-summer.jpg_50x50.jpg">|28X40 MM 4R 3 W lautsprecher|1|[Links]()
