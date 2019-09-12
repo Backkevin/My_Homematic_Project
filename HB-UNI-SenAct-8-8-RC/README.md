@@ -1,7 +1,7 @@
 # HB-UNI-SenAct-8-8-RC
 
 + HB-UNI-SenAct-8-8-RC
-	+ V1.2
+	+ V2.1
 		* Work 85%
 		* 230VAC Version
 		* Partlist OK
