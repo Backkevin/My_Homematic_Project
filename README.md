@@ -5,6 +5,7 @@
 -----------------------------------------------------------------
 
 + [HB-Dis-EP-42BW](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-Dis-EP-42BW)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/HB-Dis-EP-42BW)
 	+ V1.0
 		* Work 50%
 		* Partlist not OK
@@ -18,6 +19,7 @@
 -----------------------------------------------------------------
 
 + [HB-OU-MP3-LED](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/HB-OU-MP3-LED)
 	+ V1.3
 		* Work 50%
 		* Partlist not OK
@@ -31,6 +33,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-SenAct-4-4-RC](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SenAct-4-4-RC)
++ [Nachbau von Ronny](https://github.com/ronnythomas/HB-UNI-SenAct-4-4-Hutschiene)
 	+ V3.0
 		* Work 100%
 		* Partlist OK
@@ -44,6 +47,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-SenAct-8-8-RC](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SenAct-8-8-RC)
++ [Nachbau von Ronny](https://github.com/ronnythomas/HB-UNI-SenAct-8-8-Hutschiene)
 	+ V1.2
 		* Work 85%
 		* Partlist OK
@@ -56,6 +60,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-SEN-CAP-MOIST](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/HB-UNI-Sen-CAP-MOIST)
      + V1.2
 		* Work 75%
 		* Partlist not OK
@@ -63,6 +68,7 @@
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/INO/HB-UNI-SEN-CAP-MOIST)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/EAGLE)
++ [Nachbau von technikkram](https://technikkram.net/2019/05/anleitung-diy-feuchtigkeitssensor-fuer-gartenbewaesserung-bausatz-homematic)
 	+ V0.5
 		* Work 25%
 		* Solar Version
@@ -73,6 +79,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-SEN-PHO](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-PHO)
++ [Eigenbau]
 	+ V1.0
 		* Work 25%
 		* Partlist not OK
@@ -86,6 +93,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-Sen-RFID-RC](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-RFID-RC)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/HB-UNI-Sen-RFID-RC)
 	+ V1.0
 		* Work 25%
 		* Partlist not OK
@@ -99,6 +107,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-Sen-TEMP-DS18B20](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-TEMP-DS18B20)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/HB-UNI-Sen-TEMP-DS18B20)
 	+ V1.0
 		* Work 75%
 		* Partlist not OK
@@ -112,6 +121,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-Sen-WEIGHT](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-WEIGHT)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/HB-UNI-Sen-WEIGHT)
 	+ V1.0
 		* Work 50%
 		* Partlist not OK
@@ -125,6 +135,7 @@
 -----------------------------------------------------------------
 
 + [HM-ES-PMSw1-Pl_GosundSP1](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-ES-PMSw1-Pl_GosundSP1)
++ [Nachbau von Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-ES-PMSw1-Pl_GosundSP1)
 	+ V1.3
 		* Work 50%
 		* Partlist not OK
@@ -138,6 +149,7 @@
 -----------------------------------------------------------------
 
 + [HM-SEC-MDIR](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-SEC-MDIR)
++ [Nachbau von Jérôme](https://asksinpp.de/Projekte/jan/HM-SEC-MDIR/)
 	+ V0.0
 		* Work 0%
 		* Partlist not OK
@@ -151,6 +163,7 @@
 -----------------------------------------------------------------
 
 + [HM-MOUSETRAP](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-MOUSETRAP)
++ [Eigenbau]
 	+ V0.5
 		* Work 25%
 		* Battery Version
