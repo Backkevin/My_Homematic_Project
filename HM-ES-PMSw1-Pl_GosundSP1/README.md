@@ -14,8 +14,8 @@
 ------------- | ------------- | ------------- | ------------- | -------------
 -|<img src="">|Atmega644|1|[Links]()
 -|<img src="https://ae01.alicdn.com/kf/HTB1ItkdaMFY.1VjSZFqq6ydbXXaq/CC1101-Drahtlose-Modul-Fern-bertragung-Antenne-868MHZ-SPI-Interface-Low-Power-M115-F-r-FSK-GFSK.jpg_50x50.jpg">|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
-Config|<img src="">|Taster 6x6|1|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
-LED1|<img src="">|LED 3mm|1|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
+Config|<img src="https://ae01.alicdn.com/kf/HTB1M1sXJ4SYBuNjSsphq6zGvVXa3/6x6mm-Panel-PCB-Momentary-Tactile-Takt-Mini-Push-Button-Switch-DIP-4pin-6x6x4-3-5-6.jpg_50x50.jpg">|Taster 6x6|1|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
+LED1|<img src="https://ae01.alicdn.com/kf/HTB12T2qbAfb_uJkSne1q6zE4XXaM/600-st-cke-6-farben-x-100-st-cke-wei-Rot-Gr-n-Blau-Gelb-Orange.jpg_50x50.jpg">|LED 3mm|1|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
 HLK-5M05|<img src="">|HLK-PM01|1|[Links](https://de.aliexpress.com/item/32705471039.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 F1,F2|<img src="">|Sicherungshalter|2|[Links](https://de.aliexpress.com/item/32817849786.html?spm=a2g0o.productlist.0.0.260073beDSkClD&algo_pvid=51b52a6f-dc94-4152-9721-98bffea40076&algo_expid=51b52a6f-dc94-4152-9721-98bffea40076-1&btsid=c94e558f-368d-470b-a49c-61c69230d3d9&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_52)
 R1|<img src="">|470 Ohm Widerstand|1|[Links]()
