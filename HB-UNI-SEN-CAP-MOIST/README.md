@@ -33,6 +33,7 @@ Arduino|<img src="https://ae01.alicdn.com/kf/Ha68929bc4cc540248e19201127eb7e32N/
 -|<img src="https://ae01.alicdn.com/kf/HTB1RgKECpuWBuNjSszbq6AS7FXax/Kapazitive-Boden-Feuchtigkeit-Sensor-Modul-Nicht-Einfach-zu-Korrodieren-Breite-Spannung-Draht-3-3-5-5.jpg_50x50.jpg">|Feuchtigkeit Sensor|7|[Links](https://de.aliexpress.com/item/32892951369.html?spm=a2g0s.9042311.0.0.27424c4dkyqylL)
 OPTIONAL|<img src="https://ae01.alicdn.com/kf/HTB1coRzkIj_B1NjSZFHq6yDWpXa2/1-st-cke-FT232RL-USB-zu-TTL-Serielle-Adapter-Modul-f-r-Port-3-3-V.jpg_50x50.jpg">|FT232RL USB zu TTL Serielle Adapter|1|[Links](https://de.aliexpress.com/item/32846166237.html?spm=a2g0s.9042311.0.0.27424c4dQGznlY)
 
+>![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-CAP-MOIST/IMAGE/Default2.jpg)
 
 ### Partslist Solar Version
                     
