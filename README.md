@@ -5,7 +5,7 @@
 -----------------------------------------------------------------
 
 + [HB-Dis-EP-42BW](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-Dis-EP-42BW)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/HB-Dis-EP-42BW)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/HB-Dis-EP-42BW)
 	+ V1.0
 		* Work 50%
 		* Partlist not OK
@@ -20,7 +20,7 @@
 -----------------------------------------------------------------
 
 + [HB-OU-MP3-LED](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/HB-OU-MP3-LED)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/HB-OU-MP3-LED)
 	+ V2.1
 		* Work 85%
 		* Partlist OK
@@ -64,7 +64,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-SEN-CAP-MOIST](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/HB-UNI-Sen-CAP-MOIST)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/HB-UNI-Sen-CAP-MOIST)
      + V1.2
 		* Work 75%
 		* Partlist not OK
@@ -72,6 +72,8 @@
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/INO/HB-UNI-SEN-CAP-MOIST)
 		* [GERBER FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/GERBER%20FILES)
 		* [EAGLE FILES](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-SEN-CAP-MOIST/EAGLE)		
+		
+	+ Work in progress !
 >![](https://github.com/Backkevin/My_Homematic_Project/blob/master/HB-UNI-SEN-CAP-MOIST/IMAGE/Default.jpg)
 
 + [Nachbau von technikkram](https://technikkram.net/2019/05/anleitung-diy-feuchtigkeitssensor-fuer-gartenbewaesserung-bausatz-homematic)
@@ -101,7 +103,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-Sen-RFID-RC](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-RFID-RC)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/HB-UNI-Sen-RFID-RC)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/HB-UNI-Sen-RFID-RC)
 	+ V1.0
 		* Work 25%
 		* Partlist not OK
@@ -116,7 +118,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-Sen-TEMP-DS18B20](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-TEMP-DS18B20)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/HB-UNI-Sen-TEMP-DS18B20)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/HB-UNI-Sen-TEMP-DS18B20)
 	+ V1.0
 		* Work 75%
 		* Partlist not OK
@@ -131,7 +133,7 @@
 -----------------------------------------------------------------
 
 + [HB-UNI-Sen-WEIGHT](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-UNI-Sen-WEIGHT)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/HB-UNI-Sen-WEIGHT)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/HB-UNI-Sen-WEIGHT)
 	+ V1.0
 		* Work 50%
 		* Partlist not OK
@@ -146,7 +148,7 @@
 -----------------------------------------------------------------
 
 + [HM-ES-PMSw1-Pl_GosundSP1](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-ES-PMSw1-Pl_GosundSP1)
-+ [Nachbau von J茅r么me](https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-ES-PMSw1-Pl_GosundSP1)
++ [Nachbau von J閞鬽e](https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-ES-PMSw1-Pl_GosundSP1)
 	+ V1.3
 		* Work 50%
 		* Partlist not OK
@@ -161,7 +163,7 @@
 -----------------------------------------------------------------
 
 + [HM-SEC-MDIR](https://github.com/Backkevin/My_Homematic_Project/tree/master/HM-SEC-MDIR)
-+ [Nachbau von J茅r么me](https://asksinpp.de/Projekte/jan/HM-SEC-MDIR/)
++ [Nachbau von J閞鬽e](https://asksinpp.de/Projekte/jan/HM-SEC-MDIR/)
 	+ V0.0
 		* Work 0%
 		* Partlist not OK
