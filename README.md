@@ -20,8 +20,8 @@
 
 + [HB-OU-MP3-LED](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED)
 + [Nachbau von Jérôme](https://github.com/jp112sdl/HB-OU-MP3-LED)
-	+ V1.3
-		* Work 50%
+	+ V2.1
+		* Work 85%
 		* Partlist not OK
 		* 230VAC Version
 		* [INO FILE](https://github.com/Backkevin/My_Homematic_Project/tree/master/HB-OU-MP3-LED/INO/HB-OU-MP3-LED)
