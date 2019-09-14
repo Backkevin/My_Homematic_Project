@@ -36,8 +36,8 @@ OPTIONAL|<img src="https://ae01.alicdn.com/kf/HTB1coRzkIj_B1NjSZFHq6yDWpXa2/1-st
 
 ### Partslist Solar Version
                     
-  Part Name   |   Part Info   | Part Quantity |   Part Link 
-------------- | ------------- | ------------- | -------------
+  Part Name   |      PIC      |   Part Info   | Part Quantity |   Part Link 
+------------- | ------------- | ------------- | ------------- | -------------
 -|<img src="https://ae01.alicdn.com/kf/HTB1TUqeXc_vK1Rjy0Foq6xIxVXaB/Atmega328P-Pro-Mini-328-Mini-Atmega328-3-3-V-8-Mhz-5-V-16-M-16.jpg_50x50.jpg">|Arduino Pro Mini 8Mhz 3.3V|1|[Links](https://de.aliexpress.com/item/32863952987.html?spm=a2g0s.9042311.0.0.27424c4d2YDzey)
 -|<img src="https://cdn-reichelt.de/resize_70x70/web/artikel_ws/C110/10120400.jpg">|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
 Config|<img src="https://ae01.alicdn.com/kf/HTB1M1sXJ4SYBuNjSsphq6zGvVXa3/6x6mm-Panel-PCB-Momentary-Tactile-Takt-Mini-Push-Button-Switch-DIP-4pin-6x6x4-3-5-6.jpg_50x50.jpg">|Taster 6x6|1|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
