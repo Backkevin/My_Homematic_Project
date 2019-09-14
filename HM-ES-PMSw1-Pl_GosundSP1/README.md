@@ -12,7 +12,7 @@
                     
   Part Name   |      PIC      |   Part Info   | Part Quantity |   Part Link 
 ------------- | ------------- | ------------- | ------------- | -------------
--|<img src="">|Atmega644|1|[Links]()
+-|<img src="https://cdn-reichelt.de/resize_70x70/web/artikel_ws/A200/DIL-40.jpg">|Atmega644|1|[Links](https://www.reichelt.de/mcu-atmega-avr-risc-64-kb-20-mhz-pdip-40-atmega-644-20-pu-p68173.html?&trstct=pos_0)
 -|<img src="https://ae01.alicdn.com/kf/HTB1ItkdaMFY.1VjSZFqq6ydbXXaq/CC1101-Drahtlose-Modul-Fern-bertragung-Antenne-868MHZ-SPI-Interface-Low-Power-M115-F-r-FSK-GFSK.jpg_50x50.jpg">|CC1101 Funkmodul|1|[Links](https://de.aliexpress.com/item/32924239954.html?spm=a2g0s.9042311.0.0.27424c4dO9ofu2)
 Config|<img src="https://ae01.alicdn.com/kf/HTB1M1sXJ4SYBuNjSsphq6zGvVXa3/6x6mm-Panel-PCB-Momentary-Tactile-Takt-Mini-Push-Button-Switch-DIP-4pin-6x6x4-3-5-6.jpg_50x50.jpg">|Taster 6x6|1|[Links](https://de.aliexpress.com/item/32912263133.html?spm=a2g0s.9042311.0.0.2cb44c4dtuowdv)
 LED1|<img src="https://ae01.alicdn.com/kf/HTB12T2qbAfb_uJkSne1q6zE4XXaM/600-st-cke-6-farben-x-100-st-cke-wei-Rot-Gr-n-Blau-Gelb-Orange.jpg_50x50.jpg">|LED 3mm|1|[Links](https://de.aliexpress.com/item/32844298998.html?spm=a2g0s.9042311.0.0.27424c4dBW9kvr)
