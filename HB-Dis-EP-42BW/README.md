@@ -26,6 +26,3 @@ Arduino|<img src="https://ae01.alicdn.com/kf/Ha68929bc4cc540248e19201127eb7e32N/
 -|<img src="https://ae01.alicdn.com/kf/HTB1XlIpX2jsK1Rjy1Xaq6zispXaP/Raspberry-Pi-3-generation-B-4-2-zoll-tinte-bildschirm-Elektronische-papier-Display-modul-Rot-schwarz.jpg_50x50.jpg">|4,2 zoll color tinte bildschirm RSW|1|[Links](https://de.aliexpress.com/item/32960911279.html?spm=a2g0s.9042311.0.0.27424c4durraPx)
 -|-|-|-
 OPTIONAL|<img src="https://ae01.alicdn.com/kf/HTB1coRzkIj_B1NjSZFHq6yDWpXa2/1-st-cke-FT232RL-USB-zu-TTL-Serielle-Adapter-Modul-f-r-Port-3-3-V.jpg_50x50.jpg">|FT232RL USB zu TTL Serielle Adapter|1|[Links](https://de.aliexpress.com/item/32846166237.html?spm=a2g0s.9042311.0.0.27424c4dQGznlY)
-
-
-
